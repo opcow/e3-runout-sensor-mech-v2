@@ -16,6 +16,7 @@ Screw lengths are not critical. Print spacers if yoou have some that are a bit t
 * M10 Pneumatic coupler if you use a section of PTFE tube for the filament guide.
 * PTFE (bowden) tube.
 
+---
 The switch I used came out of a computer mouse. It could be fairly simple to make a housing to fit other types of switches.
 
 The coupler used is the kind that goes in the hotend. This size will let the TPFE tubing pass through. If you don't have one you can print this one [link](https://www.thingiverse.com/thing:1993384), but you'll need to drill or melt the hole so the tubing can pass through.
