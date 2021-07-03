@@ -29,3 +29,6 @@ Everything can be printed without supports. The switch housing mounting holes ha
 
 ---
 ![image 1](images/image1.jpg)
+
+
+https://www.youtube.com/watch?v=3lITv65Vlw8
