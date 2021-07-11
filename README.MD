@@ -2,9 +2,10 @@
 
 
 ### Parts
-* 4 - M4 x 25 screws
-* 2 - M4 x 10 screws
-* 2 - M3 x 5-8 screws
+* 2 - M4 x 30 screws
+* 2 - M4 x 6 screws
+* 1 - M4 x 16 screw1
+* 1 - M5 x 5-8 screws
 
 Screw lengths are not critical. Print spacers if yoou have some that are a bit too long.
 
@@ -28,7 +29,5 @@ This design uses a modified [Ender 3 Filament Roller Guide](https://www.thingive
 Everything can be printed without supports. The switch housing mounting holes have a 0.2 mm layer blocking the holes. This allows for bridging when printing. The holes can be easily cleared after printing using something pointy.
 
 ---
-![image 1](images/image1.jpg)
+![image 1](images/image3.jpg)
 
-
-https://www.youtube.com/watch?v=3lITv65Vlw8
