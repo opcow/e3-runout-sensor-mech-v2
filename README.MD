@@ -6,6 +6,7 @@
 * 2 - M4 x 6 screws
 * 1 - M4 x 16 screw
 * 1 - M5 x 8 screw
+* 2 o-rings (I'm using #13) or rubber bands
 * 3 x 608 skateboard bearings.
 * 1 x Microswitch
 * Whichever wire and connectors you need to connect the microswitch to your controller board.
